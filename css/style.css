@@ -30,12 +30,6 @@ p.subtitle {
     font-weight: 300;
 }
 
-p.greetings {
-    font-size: 2em;
-    font-weight: 300;
-    margin-left: 20em
-}
-
 span.name {
     font-weight: bold;
 }
